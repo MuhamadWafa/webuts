@@ -19,8 +19,11 @@ img/...
 Akun contoh (ada di data.js):
 
 User: rina@gmail.com / rina123
+
 User: agus@gmail.com / agus123
+
 Admin: mufidazulfi@gmail.com / mufidazulfi123
+
 Petunjuk singkat:
 
 Buka index.html, login dengan salah satu akun di atas.
